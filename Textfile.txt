@@ -9,3 +9,5 @@ Capital of Karnataka state
 
 Manual Testing
 Selenium Automation
+
+Done editing my project
