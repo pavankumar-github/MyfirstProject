@@ -7,7 +7,11 @@ i hope you understand
 Bengaluru is an IT Hub
 Capital of Karnataka state
 
+
 Manual Testing
 Selenium Automation
 
+Software Testing
+
 Done editing my project
+
